@@ -1,1 +1,2 @@
-print ("Login v2")
+name = input("Name :")
+print ("Hello, " + name)
